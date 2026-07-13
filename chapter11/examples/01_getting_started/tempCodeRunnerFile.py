@@ -1,0 +1,1 @@
+uvicorn examples.01_getting_started.main:app --reload
